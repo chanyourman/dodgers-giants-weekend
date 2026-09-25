@@ -33,3 +33,9 @@ Neither team has announced a starter. Expect a Dodgers bullpen game to get every
 - **TV:** NBC Sports Bay Area / SportsNet LA.
 
 *Sources: Reuters, Sports Illustrated, McCovey Chronicles. Generated as a test project.*
+
+## More in this repo
+
+- [2026 batting stats](batting-stats.md) — team and player batting data
+- [Head-to-head history & Oracle Park](head-to-head.md) — rivalry records and park factors
+- [Weather effects & attendance](weather-attendance.md) — temperature physics, weekend forecast, crowds
